@@ -138,3 +138,4 @@ class VideoPlayer:
             video_id: The video_id to be allowed again.
         """
         print("allow_video needs implementation")
+        python3 -m pytest
